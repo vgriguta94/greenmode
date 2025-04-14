@@ -33,3 +33,4 @@ jobs:
           publish_branch: gh-pages
           user_name: vgriguta94
           user_email: vgriguta@my.bcit.ca
+          external_repository: vgriguta94/greenmode
