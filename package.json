@@ -2,6 +2,7 @@
   "name": "greenmode",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://vgriguta94.github.io/greenmode",
   "type": "module",
   "scripts": {
     "dev": "vite",
